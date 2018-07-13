@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SwipeThisDemo</string>
+    <string name="list_view_with_one_child">List View (with one child)</string>
+    <string name="list_view_with_two_child">List View (with one child)</string>
+    <string name="grid_view_with_left">Grid View (with left Swipe)</string>
+    <string name="grid_view_with_right">Grid View (with right Swipe)</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources>
